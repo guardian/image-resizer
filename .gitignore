@@ -1,0 +1,9 @@
+node_modules/
+bower_components/
+.build/
+.local/
+yarn.lock
+.DS_Store
+.jpeg
+.jpg
+.png
